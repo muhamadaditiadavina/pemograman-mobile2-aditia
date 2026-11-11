@@ -1,0 +1,71 @@
+{
+  "nama": "Muhamad Aditia Davina Kholik",
+  "panggilan": "Aditia",
+  "nim": "242505030",
+  "prodi": "Sistem Informasi",
+  "kampus": "Masoem University",
+  "profesi": "Mahasiswa Sistem Informasi",
+  "tagline": "Mahasiswa yang Belajar Membuat Web",
+  "bio_singkat": "Mahasiswa semester 5 jurusan Sistem Informasi di Masoem University yang berfokus mendalami pemrograman web dan pengembangan aplikasi mobile.",
+  "deskripsi": "Saya adalah mahasiswa aktif yang senang belajar hal baru dalam dunia teknologi informasi. Melalui ketekunan dalam praktikum dan pengerjaan tugas proyek, saya terus melatih kemampuan logika berpikir analitis dan rekayasa antarmuka agar menghasilkan aplikasi yang bermanfaat.",
+  "filosofi_title": "Filosofi Muhamad Aditia Davina Kholik",
+  "filosofi_text": "Belajar coding adalah proses bertahap. Setiap pesan kesalahan adalah kesempatan memahami logika lebih dalam, dan setiap baris program yang berhasil dieksekusi adalah langkah nyata menuju masa depan yang lebih baik.",
+  "lokasi": "Jatinangor, Jawa Barat, Indonesia",
+  "email": "muhammadaditiadavina@gmail.com",
+  "telepon": "085974314120",
+  "whatsapp": "6285974314120",
+  "github": "https://github.com/muhammadaditiadavina",
+  "stats": {
+    "pengalaman": "2 Tahun",
+    "proyek": "10 Proyek",
+    "skor_uts": "89 (A)"
+  },
+  "what_i_do": [
+    {
+      "id": "1",
+      "icon": "code-slash-outline",
+      "title": "Web Development",
+      "desc": "Belajar dan mempraktikkan pembuatan aplikasi website fungsional seperti kalkulator digital dan web e-commerce."
+    },
+    {
+      "id": "2",
+      "icon": "phone-portrait-outline",
+      "title": "Mobile App Development",
+      "desc": "Mengembangkan aplikasi mobile multiplatform Android menggunakan React Native, Expo, dan StyleSheet modern."
+    }
+  ],
+  "beyond_the_code": [
+    {
+      "id": "1",
+      "icon": "fitness-outline",
+      "title": "Beraktivitas Olahraga",
+      "desc": "Menjaga stamina, kebugaran fisik, dan fokus belajar melalui aktivitas olahraga rutin."
+    },
+    {
+      "id": "2",
+      "icon": "musical-notes-outline",
+      "title": "Senang Bermain Musik",
+      "desc": "Mengekspresikan kreativitas seni dan menyegarkan pikiran dengan memainkan alat musik di waktu senggang."
+    }
+  ],
+  "aktivitas_mahasiswa": [
+    {
+      "id": "1",
+      "icon": "laptop-outline",
+      "title": "Eksplorasi Coding & Web",
+      "desc": "Aktif mencoba studi kasus pemrograman web dan mobile di laboratorium komputer kampus."
+    },
+    {
+      "id": "2",
+      "icon": "people-outline",
+      "title": "Diskusi & Kerja Kelompok",
+      "desc": "Berdiskusi dengan teman sekelas untuk memecahkan problem logic pada tugas kuliah."
+    },
+    {
+      "id": "3",
+      "icon": "book-outline",
+      "title": "Membaca Dokumentasi & Modul",
+      "desc": "Mempelajari modul perkuliahan Pemrograman Mobile 2 dan dokumentasi resmi Expo."
+    }
+  ]
+}

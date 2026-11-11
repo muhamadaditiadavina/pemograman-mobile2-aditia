@@ -1,0 +1,78 @@
+{
+  "subtitle_mahasiswa": "Kumpulan keterampilan teknologi yang sedang dipelajari dan dikembangkan sebagai mahasiswa semester 5 Sistem Informasi dalam perkuliahan pemrograman web dan mobile.",
+  "categories": ["Semua", "Web", "Mobile", "Database", "Tools"],
+  "skills": [
+    {
+      "id": "1",
+      "name": "HTML5 & CSS3 Dasar",
+      "category": "Web",
+      "level": "Menengah",
+      "percent": 88,
+      "icon": "code-slash-outline",
+      "badge": "Web"
+    },
+    {
+      "id": "2",
+      "name": "JavaScript (ES6)",
+      "category": "Web",
+      "level": "Menengah",
+      "percent": 84,
+      "icon": "logo-javascript",
+      "badge": "Web"
+    },
+    {
+      "id": "3",
+      "name": "React Native & Expo",
+      "category": "Mobile",
+      "level": "Sedang Belajar",
+      "percent": 86,
+      "icon": "phone-portrait-outline",
+      "badge": "Mobile"
+    },
+    {
+      "id": "4",
+      "name": "Pemrograman PHP Dasar",
+      "category": "Web",
+      "level": "Menengah",
+      "percent": 82,
+      "icon": "server-outline",
+      "badge": "Backend"
+    },
+    {
+      "id": "5",
+      "name": "Basis Data MySQL",
+      "category": "Database",
+      "level": "Menengah",
+      "percent": 85,
+      "icon": "file-tray-stacked-outline",
+      "badge": "Database"
+    },
+    {
+      "id": "6",
+      "name": "Bootstrap & UI Styling",
+      "category": "Web",
+      "level": "Menengah",
+      "percent": 87,
+      "icon": "color-palette-outline",
+      "badge": "Frontend"
+    },
+    {
+      "id": "7",
+      "name": "Git & GitHub Dasar",
+      "category": "Tools",
+      "level": "Menengah",
+      "percent": 83,
+      "icon": "git-branch-outline",
+      "badge": "Tools"
+    },
+    {
+      "id": "8",
+      "name": "Analisis Sistem Informasi",
+      "category": "Tools",
+      "level": "Menengah",
+      "percent": 80,
+      "icon": "analytics-outline",
+      "badge": "Akademik"
+    }
+  ]
+}

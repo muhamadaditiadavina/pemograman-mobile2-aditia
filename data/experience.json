@@ -1,0 +1,60 @@
+{
+  "experience": [
+    {
+      "id": "1",
+      "period": "2024 - Sekarang",
+      "role": "Mahasiswa di Masoem University",
+      "company": "Masoem University",
+      "badge": "Pendidikan Tinggi",
+      "icon": "school-outline",
+      "desc": "Mahasiswa aktif program studi S1 Sistem Informasi semester 5, berfokus mendalami rekayasa antarmuka web modern dan pemrograman mobile multiplatform."
+    },
+    {
+      "id": "2",
+      "period": "2020 - 2023",
+      "role": "Pernah Belajar di SMA 1 JATINANGOR",
+      "company": "SMA 1 JATINANGOR",
+      "badge": "Pendidikan Menengah",
+      "icon": "school-outline",
+      "desc": "Menempuh dan menyelesaikan pendidikan tingkat menengah atas di SMA 1 Jatinangor dengan peminatan MIPA dan ketertarikan mendalam pada teknologi komputer."
+    },
+    {
+      "id": "3",
+      "period": "2018 - 2020",
+      "role": "Pernah Belajar di SMP 1 JATINANGOR",
+      "company": "SMP 1 JATINANGOR",
+      "badge": "Pendidikan Dasar",
+      "icon": "school-outline",
+      "desc": "Menempuh dan menyelesaikan masa studi pendidikan tingkat menengah pertama di SMP 1 Jatinangor."
+    }
+  ],
+  "experiences": [
+    {
+      "id": "1",
+      "period": "2024 - Sekarang",
+      "role": "Mahasiswa di Masoem University",
+      "company": "Masoem University",
+      "badge": "Pendidikan Tinggi",
+      "icon": "school-outline",
+      "desc": "Mahasiswa aktif program studi S1 Sistem Informasi semester 5, berfokus mendalami rekayasa antarmuka web modern dan pemrograman mobile multiplatform."
+    },
+    {
+      "id": "2",
+      "period": "2020 - 2023",
+      "role": "Pernah Belajar di SMA 1 JATINANGOR",
+      "company": "SMA 1 JATINANGOR",
+      "badge": "Pendidikan Menengah",
+      "icon": "school-outline",
+      "desc": "Menempuh dan menyelesaikan pendidikan tingkat menengah atas di SMA 1 Jatinangor dengan peminatan MIPA dan ketertarikan mendalam pada teknologi komputer."
+    },
+    {
+      "id": "3",
+      "period": "2018 - 2020",
+      "role": "Pernah Belajar di SMP 1 JATINANGOR",
+      "company": "SMP 1 JATINANGOR",
+      "badge": "Pendidikan Dasar",
+      "icon": "school-outline",
+      "desc": "Menempuh dan menyelesaikan masa studi pendidikan tingkat menengah pertama di SMP 1 Jatinangor."
+    }
+  ]
+}

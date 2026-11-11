@@ -1,0 +1,38 @@
+{
+  "categories": ["Semua", "Web", "Mobile"],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Pembuatan Web Kalkulator",
+      "category": "Web",
+      "badge": "Proyek 2024",
+      "desc": "Aplikasi kalkulator berbasis website yang dirancang untuk melakukan perhitungan aritmatika dasar dan ilmiah secara cepat dan responsif.",
+      "tech": ["HTML5", "CSS3", "JavaScript"],
+      "year": "2024",
+      "stat": "Selesai (Tugas Pemrograman Web)",
+      "featured": true
+    },
+    {
+      "id": "2",
+      "title": "Pembuatan Web E-Commerce",
+      "category": "Web",
+      "badge": "Proyek 2025",
+      "desc": "Pengembangan website toko online sederhana dengan katalog produk, keranjang belanja, dan manajemen data barang berbasis basis data.",
+      "tech": ["PHP", "MySQL", "Bootstrap", "JavaScript"],
+      "year": "2025",
+      "stat": "Selesai (Praktikum Basis Data & Web)",
+      "featured": true
+    },
+    {
+      "id": "3",
+      "title": "Pembuatan Transaksi E-Commerce di Mobile",
+      "category": "Mobile",
+      "badge": "Proyek 2026",
+      "desc": "Aplikasi mobile untuk pencatatan transaksi pembelian, checkout produk, dan riwayat pesanan pelanggan dengan antarmuka yang ramah pengguna.",
+      "tech": ["React Native", "Expo", "Flexbox", "Local JSON"],
+      "year": "2026",
+      "stat": "Selesai (UTS Pemrograman Mobile 2)",
+      "featured": true
+    }
+  ]
+}

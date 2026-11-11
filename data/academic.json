@@ -1,0 +1,75 @@
+{
+  "identitas": {
+    "nama": "Muhamad Aditia Davina Kholik",
+    "nim": "242505030",
+    "mata_kuliah": "Pemrograman Mobile 2",
+    "dosen": "Iin, M.Kom",
+    "program_studi": "Sistem Informasi",
+    "kampus": "Masoem University",
+    "semester": "Semester 5 (Genap 2025/2026)",
+    "kelas": "SI-5A"
+  },
+  "current_score": {
+    "nilai": 89,
+    "grade": "A",
+    "predikat": "Sangat Baik (Sangat Memuaskan)",
+    "bobot": 4.0,
+    "status": "Lulus Kompetensi Level 10"
+  },
+  "learning_points": {
+    "total": 12375,
+    "satuan": "LP",
+    "rank": "Rank #1 (Top Tier)",
+    "badge": "Master Mobile Developer"
+  },
+  "learning_progress": [
+    {
+      "id": "att",
+      "name": "Attendance",
+      "label": "Presensi Kehadiran Kuliah",
+      "percentage": 100,
+      "detail": "16 / 16 Pertemuan (100% Hadir Tepat Waktu)",
+      "color": "#22C55E",
+      "icon": "checkbox-outline"
+    },
+    {
+      "id": "prac",
+      "name": "Practice",
+      "label": "Praktikum Mandiri & Lab",
+      "percentage": 87,
+      "detail": "26 / 30 Tugas Modul Praktikum Terselesaikan",
+      "color": "#3B82F6",
+      "icon": "code-working-outline"
+    },
+    {
+      "id": "qst",
+      "name": "Quest",
+      "label": "Tantangan Mingguan (Quest)",
+      "percentage": 95,
+      "detail": "19 / 20 Quest Akademik Berhasil Dipecahkan",
+      "color": "#F59E0B",
+      "icon": "trophy-outline"
+    },
+    {
+      "id": "chlg",
+      "name": "Challenge",
+      "label": "Progressive Challenge UTS",
+      "percentage": 100,
+      "detail": "10 / 10 Levels Tercapai Penuh (Level 1 - Level 10)",
+      "color": "#2563EB",
+      "icon": "flame-outline"
+    }
+  ],
+  "levels_achieved": [
+    { "level": 1, "name": "Novice", "desc": "NIM, Nama, Foto Profil", "completed": true },
+    { "level": 2, "name": "Beginner", "desc": "Profesi, Bio Singkat, Heading", "completed": true },
+    { "level": 3, "name": "Elementary", "desc": "Layout Flexbox & StyleSheet Mobile", "completed": true },
+    { "level": 4, "name": "Intermediate", "desc": "Props, State, Form Kontak & Validasi", "completed": true },
+    { "level": 5, "name": "Competent", "desc": "Separation of UI and Data", "completed": true },
+    { "level": 6, "name": "Proficient", "desc": "Local JSON Data Management", "completed": true },
+    { "level": 7, "name": "Advanced", "desc": "Dynamic Skills, Gallery, Dark/Light Theme", "completed": true },
+    { "level": 8, "name": "Expert", "desc": "My Score & Academic Dashboard", "completed": true },
+    { "level": 9, "name": "Professional", "desc": "Multi-Screen Architecture & Navigation", "completed": true },
+    { "level": 10, "name": "Industry", "desc": "Production Architecture, Mock API & Testing", "completed": true }
+  ]
+}
